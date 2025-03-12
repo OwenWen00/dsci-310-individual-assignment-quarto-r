@@ -35,6 +35,7 @@ Results
 #| fig-cap: "Historical number of horses per province in Canada"
 #| fig-width: 7
 knitr::include_graphics("../results/horse_pops_plot.png")
+
 ```
 
 
